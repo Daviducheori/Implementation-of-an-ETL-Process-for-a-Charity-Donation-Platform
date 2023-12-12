@@ -1,4 +1,4 @@
-# Implementation of an ETL process for a charity donation platform
+# Implementation of an ETL Process for a Charity Donation Platform
 
 ### Table of Content
 - [Project Overview](#project-overview)
